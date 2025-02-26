@@ -60,7 +60,7 @@ const App = ()=>{
   return (
     <>
     <div className='list'>
-      <h1>FABLE</h1>
+      <h1>TODO-LIST</h1>
     </div>
     <hr/>
     <br/>
